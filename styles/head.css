@@ -1,0 +1,37 @@
+.Header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  height: 55px;
+  align-items: center;
+  
+  
+
+}
+
+.Header2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(37, 31, 31);color: white;
+  height: 30px;
+
+}
+
+button{
+  font-family: roboto, arial;
+  border: none;
+  height: 55px;
+  background-color: white;
+  
+  
+  
+
+
+}
+button :hover{
+  background-color: green;
+}
+
+
